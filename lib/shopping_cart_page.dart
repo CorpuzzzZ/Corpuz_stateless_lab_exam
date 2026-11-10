@@ -8,7 +8,7 @@ const Color kPageBg = Color(0xFFF1F3F6);
 const Color kBorder = Color(0xFFE2E6EC);
 
 // TODO: replace with your own full name.
-const String kStudentName = 'Glenn Oliva';
+const String kStudentName = 'Winson Corpuz';
 
 class ShoppingCartPage extends StatelessWidget {
   const ShoppingCartPage({super.key});
